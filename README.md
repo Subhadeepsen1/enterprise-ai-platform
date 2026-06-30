@@ -1,9 +1,6 @@
 # Enterprise AI Workflow Intelligence Platform
 
 An AI-powered enterprise automation system that helps organizations process business documents, extract insights, automate workflows, and provide intelligent knowledge assistance using modern AI techniques.
-
-This project is built for the msg global AI Intern role requirements, strictly adhering to an enterprise-grade architecture.
-
 ## 🌟 Key Features
 
 1. **Intelligent Document Processing**
